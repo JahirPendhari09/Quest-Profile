@@ -89,7 +89,7 @@ const Profile = () => {
             <Modal isOpen={isModalOpen} onClose={closeModal}>
                <div className='modalCard'>
                  <img src={modalObject.imageUrl} alt='Badges-image'/>
-                 <h4>{modalObject.name} ✨</h4>
+                 <h4>{modalObject.name}! ✨</h4>
                  <p>🎉 {modalObject.description} 🥇✨</p>
                </div>
             </Modal>
