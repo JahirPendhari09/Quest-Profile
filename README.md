@@ -22,14 +22,14 @@ The application is deployed on Vercel and can be accessed [here](https://quest-l
 
 ![Profile](https://github.com/JahirPendhari09/Quest-Profile/assets/128920395/e8aded39-3dfc-4fee-8b8d-904289c46b03)
 
- <h2>Installation</h2>
-   <p>Follow these steps to run locally:</p>
-    
-   <pre><code>Clone:- </code></pre>
-   <pre><code>Go inside app : cd/quest_profile</code></pre>
-   <pre><code>npm install</code></pre>
-   <pre><code>npm start</code></pre>
-   <hr>
+
+ # How to Run <br/>
+   <h2>Installation</h2>
+     Clone the repository:   ``` git clone https://github.com/JahirPendhari09/Quest-Profile.git ``` <br/>
+     Navigate to the project directory:   ``` cd quest-profile ``` <br/>
+     Install the dependencies:   ``` npm install ``` <br/>
+     Start the development server:   ``` npm start ``` <br/>
+     Open your browser and visit:   ``` http://localhost:3000 ``` <br/>
 
    <h2>Endpoints</h2>
    <h3>Get User Details</h3>
@@ -47,10 +47,10 @@ The application is deployed on Vercel and can be accessed [here](https://quest-l
    <h3>GET User Badges</h3>
    <pre><code>GET api/entities/{entityId}/users/{userId}/badges</code></pre>
   
-   <h2>Usage</h2>
+
+   # Credits <br/>
+   This project was developed by ```Jahir Pendhari``` as a part of ```Masai School``` training program.
+
    <p>Feel free to explore and integrate these endpoints into your application.</p>
-   <hr>
-
-
   
 
