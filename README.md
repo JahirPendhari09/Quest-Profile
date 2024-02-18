@@ -25,11 +25,12 @@ The application is deployed on Vercel and can be accessed [here](https://quest-l
 
  # How to Run <br/>
    <h2>Installation</h2>
-     Clone the repository:   ``` git clone https://github.com/JahirPendhari09/Quest-Profile.git ``` <br/>
-     Navigate to the project directory:   ``` cd quest-profile ``` <br/>
-     Install the dependencies:   ``` npm install ``` <br/>
-     Start the development server:   ``` npm start ``` <br/>
-     Open your browser and visit:   ``` http://localhost:3000 ``` <br/>
+   
+   Clone the repository:   ``` git clone https://github.com/JahirPendhari09/Quest-Profile.git ``` <br/>
+   Navigate to the project directory:   ``` cd quest-profile ``` <br/>
+   Install the dependencies:   ``` npm install ``` <br/>
+   Start the development server:   ``` npm start ``` <br/>
+   Open your browser and visit:   ``` http://localhost:3000 ``` <br/>
 
    <h2>Endpoints</h2>
    <h3>Get User Details</h3>
