@@ -16,7 +16,7 @@ Axios is a promise-based HTTP client for making asynchronous requests in JavaScr
 
 ## Deployment
 
-The application is deployed on Vercel and can be accessed [here](https://quest-labs-profile.netlify.app/).
+The application is deployed on Netlify and can be accessed [here](https://quest-labs-profile.netlify.app/).
 
 # Profile Page 
 
